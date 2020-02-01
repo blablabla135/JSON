@@ -1,0 +1,17 @@
+"posts": [
+  {
+    "id": 1,
+    "name": "Vienna City Marathon",
+    "date": "19-4-2020"
+  },
+  {
+    "id": 2,
+    "name": "Asics Stockholm Marathon",
+    "date": "30-5-2020"
+  },
+  {
+    "id": 3,
+    "name": "Wizz Air Kyiv City Marathon",
+    "date": "25-10-2020"
+  }
+]
